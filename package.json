@@ -1,0 +1,26 @@
+{
+  "name": "webpack-tuto",
+  "version": "1.0.0",
+  "description": "webpack tutorial by examples",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/von-berlichingen/webpack-tuto.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "Anis Ben Amara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/von-berlichingen/webpack-tuto/issues"
+  },
+  "homepage": "https://github.com/von-berlichingen/webpack-tuto#readme",
+  "devDependencies": {
+    "webpack": "^3.4.1"
+  }
+}
